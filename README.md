@@ -1,5 +1,3 @@
-Certainly! Below is the updated **README** file with the new script name: **Google Photos Metadata Injector**.
-
 ---
 
 # Google Photos Metadata Injector
@@ -140,7 +138,3 @@ Here is an example of the JSON metadata format that the script expects:
 This script is open-source and free to use under the MIT license. Feel free to contribute or modify it as needed.
 
 ---
-
-### End of README
-
-Now, the README has been updated with the new script name: **Google Photos Metadata Injector**. If you need further modifications, feel free to ask!
